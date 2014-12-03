@@ -1,6 +1,6 @@
 package com.mathcoder.FileDemo;
 
-import Utils.FileUtil;
+import com.mathcoder.FileDemo.Utils.FileUtil;
 import android.app.Activity;
 import android.os.Bundle;
 
@@ -13,7 +13,7 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
-
+    //测试idea Push。
 
     }
 
